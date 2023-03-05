@@ -40,8 +40,3 @@ Además de esto, el acceso a la aplicación estaría protegido mediante un *****
 - Supabase
 - React
 - React-Router-Dom
-
-
-**********************Paso a paso**********************
-
----
